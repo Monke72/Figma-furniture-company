@@ -1,1 +1,1 @@
-second project, adaptive by 768(Второй проект адаптив от 768)
+second project, adaptive by 800(Второй проект адаптив от 800)
